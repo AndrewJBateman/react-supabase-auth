@@ -26,7 +26,7 @@
 
 ## :books: General info
 
-* Supabase is an open-source alternative to Firebase, but uses PostgreSQL instead of document database. Database is realtime & can use SQL joins. Realtime notifications via Websockets. RESTful API requires no backend code.
+* Supabase is an open-source alternative to Firebase, but uses Postgres instead of document database. Database is realtime & can use SQL joins. Realtime notifications via Websockets. RESTful API requires no backend code.
 * rxjs was not required for Observables etc.
 
 ## :camera: Screenshots
@@ -38,9 +38,9 @@
 
 * [React v17](https://reactjs.org/) Javascript library
 * [Chakra-ui/react v1](https://www.npmjs.com/package/@chakra-ui/react) React components that work out of the box.
-* [Supabase public Beta](https://supabase.io/)
+* [Supabase public Beta](https://supabase.io/) Postgres database
 * [supabase-js v1](https://www.npmjs.com/package/@supabase/supabase-js) isomorphic Javascript client for Supabase
-* [web-vitals](https://www.npmjs.com/package/web-vitals) library to measure the Web Vitals metrics of real users
+* [web-vitals v1](https://www.npmjs.com/package/web-vitals) library to measure the Web Vitals metrics of real users
 
 ## :floppy_disk: Setup
 
@@ -52,8 +52,7 @@
 
 ## :flashlight: Testing
 
-* `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-* `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* Tests not set up
 
 ## :computer: Code from [Tutorial](https://www.youtube.com/watch?v=x38PWNZhSEM)
 
