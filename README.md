@@ -11,7 +11,7 @@
 
 ## :page_facing_up: Table of contents
 
-* [:zap: Angular RxJS ArcGIS](#zap-angular-rxjs-arcgis)
+* [:zap: React Supabase Auth](#zap-react-supabase-auth)
   * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
@@ -27,7 +27,6 @@
 ## :books: General info
 
 * Supabase is an open-source alternative to Firebase, but uses Postgres instead of document database. Database is realtime & can use SQL joins. Realtime notifications via Websockets. RESTful API requires no backend code.
-* rxjs was not required for Observables etc.
 
 ## :camera: Screenshots
 
